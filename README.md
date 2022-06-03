@@ -2,4 +2,4 @@
 Repo for InformationSecurity project on Key Exchange Algorithm-Diffie Hellman. 
 
 
-<center><img  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnP48krTDUNBm3tXaDSvQbZr_wRUjlpe0ltA&usqp=CAU" width="400" height="250"> <center>
+<img  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnP48krTDUNBm3tXaDSvQbZr_wRUjlpe0ltA&usqp=CAU" width="400" height="250" align="center"> 
